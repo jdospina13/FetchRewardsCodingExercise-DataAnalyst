@@ -1,3 +1,0 @@
-I am uploading one file with a .msg email format.
-
-If this file cannot be opened I am providing the same information in Word and .txt formats
