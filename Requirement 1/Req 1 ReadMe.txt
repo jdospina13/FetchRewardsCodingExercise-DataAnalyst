@@ -1,0 +1,5 @@
+The ERD presented has an extra convention for coloring of the tables presented.
+
+BLUE: original tables from the case study
+YELLOW: Suggested tables to include in the database
+RED: Suggested composite tables
